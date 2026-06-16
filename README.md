@@ -37,7 +37,7 @@ Zaimplementowano w pełni działający stos nawigacyjny oraz następujące ekran
   <img src="screenshots/screen6.png" width="30%" />
 </p>
 
-## Uruchomienie projektu lokalnie (Instrukcja krok po kroku)
+## Uruchomienie projektu lokalnie (instrukcja krok po kroku)
 
 Aby przetestować aplikację na własnym sprzęcie, upewnij się, że spełniasz poniższe wymagania wstępne, a następnie postępuj zgodnie z instrukcją.
 
